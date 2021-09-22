@@ -1,0 +1,12 @@
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dacpac
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dll
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.pdb
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.sqlprojAssemblyReference.cache
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.dll
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.pdb
+D:\Users\PERSONAL\Documents\BASE DE DATOS\Prac-1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dacpac
+D:\Users\PERSONAL\Documents\BASE DE DATOS\Prac-1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dll
+D:\Users\PERSONAL\Documents\BASE DE DATOS\Prac-1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.pdb
+D:\Users\PERSONAL\Documents\BASE DE DATOS\Prac-1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.sqlproj.AssemblyReference.cache
+D:\Users\PERSONAL\Documents\BASE DE DATOS\Prac-1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.dll
+D:\Users\PERSONAL\Documents\BASE DE DATOS\Prac-1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.pdb
